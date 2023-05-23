@@ -1,0 +1,51 @@
+body {
+    background-image: url(1684413233279.jpg);
+    background-size:  100% 500px;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+header{
+    text-align: right;
+    text-transform: uppercase;
+}
+
+.links {
+  margin-top: -70px;
+  cursor: pointer;
+}
+ .first{
+      width: 100px;
+      height: 100px;
+      background-color: transparent;
+      vertical-align: middle;
+  }
+
+  a{
+    text-decoration: none;
+    color: white;
+    margin-left: 30px;
+    margin-right: 20px;
+    cursor: pointer;
+ }
+
+
+.one{
+    text-align: center;
+    font-size: 70px;
+    margin-top: 250px;
+    color: white;
+}
+
+footer {
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 150px;
+}
+
+.last {
+    color: black;
+    outline: none;
+    cursor: pointer;
+}

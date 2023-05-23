@@ -1,0 +1,45 @@
+body{
+    background-image: url(1684413233279.jpg);
+    background-size:  100% 500px;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+header{
+    text-align: right;
+    text-transform: uppercase;
+}
+
+  img{
+      width: 100px;
+      height: 100px;
+      background-color: transparent;
+      vertical-align: middle;
+  }
+  
+  .links {
+    margin-top: -70px;
+    cursor: pointer;
+  }
+
+a{
+   text-decoration: none;
+   color: white;
+   margin-left: 30px;
+   margin-right: 20px;
+   cursor: pointer;
+}
+
+.one{
+    text-align: center;
+    font-size: 70px;
+    margin-top: 250px;
+    color: white;
+}
+
+pre{
+color: black;
+margin-top: 200px;
+/* border: 3px black; */
+text-align: center;
+}
